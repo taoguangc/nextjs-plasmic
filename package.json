@@ -9,16 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@plasmicapp/loader-nextjs": "^1.0.333",
     "next": "13.4.19",
     "react": "^18",
     "react-dom": "^18"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
+    "@plasmicapp/loader-nextjs": "^1.0.339",
+    "@types/node": "^20.9.0",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "eslint": "^8.53.0",
     "eslint-config-next": "13.5.6",
     "typescript": "^5"
   }
